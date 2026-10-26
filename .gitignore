@@ -1,0 +1,10 @@
+# Ignore private voice samples & raw sample reference audio
+VoiceSample/
+outputs/00_ref_blended_sample_and_tw.wav
+
+# Python / OS / IDE artifacts
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.vscode/
